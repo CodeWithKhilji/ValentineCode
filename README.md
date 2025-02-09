@@ -1,2 +1,4 @@
 # ValentineCode
-Fun Code For Your Valentine...If you have one haha...
+Make sure to install node module first
+For node module file run "npm install" in your VsCode Terminal
+
